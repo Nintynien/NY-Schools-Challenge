@@ -1,10 +1,10 @@
-package com.example.newyorkschools;
+package com.example.newyorkschools.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.newyorkschools.ui.main.SchoolListFragment;
+import com.example.newyorkschools.R;
 
 public class MainActivity extends AppCompatActivity {
 

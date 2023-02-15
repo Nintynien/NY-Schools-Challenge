@@ -1,11 +1,11 @@
-package com.example.newyorkschools;
+package com.example.newyorkschools.viewmodels;
 
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 import com.example.newyorkschools.data.SATScores;
 import com.example.newyorkschools.data.School;
-import com.example.newyorkschools.util.NycSchoolApi;
+import com.example.newyorkschools.data.NycSchoolApi;
 
 import java.util.List;
 

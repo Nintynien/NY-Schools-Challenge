@@ -1,4 +1,4 @@
-package com.example.newyorkschools.ui.main;
+package com.example.newyorkschools.views;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -16,7 +16,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.newyorkschools.R;
-import com.example.newyorkschools.SchoolsViewModel;
+import com.example.newyorkschools.viewmodels.SchoolsViewModel;
 import com.example.newyorkschools.data.School;
 import com.example.newyorkschools.databinding.SchoolListBinding;
 

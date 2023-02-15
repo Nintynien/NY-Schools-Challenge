@@ -1,4 +1,4 @@
-package com.example.newyorkschools.ui.main;
+package com.example.newyorkschools.views;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,7 +12,7 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.lifecycle.ViewModelStoreOwner;
 
 import com.example.newyorkschools.R;
-import com.example.newyorkschools.SchoolsViewModel;
+import com.example.newyorkschools.viewmodels.SchoolsViewModel;
 import com.example.newyorkschools.data.SATScores;
 import com.example.newyorkschools.data.School;
 import com.example.newyorkschools.databinding.SchoolDetailBinding;

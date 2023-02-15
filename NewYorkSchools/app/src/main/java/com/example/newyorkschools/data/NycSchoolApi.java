@@ -1,11 +1,8 @@
-package com.example.newyorkschools.util;
+package com.example.newyorkschools.data;
 
 import android.util.Log;
 
 import androidx.lifecycle.MutableLiveData;
-
-import com.example.newyorkschools.data.SATScores;
-import com.example.newyorkschools.data.School;
 
 import java.util.List;
 
