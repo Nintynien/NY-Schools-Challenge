@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New York High Schools</string>
+    <string name="sat_scores">SAT Scores:</string>
+    <string name="sat_score_math">Math: %s</string>
+    <string name="sat_score_reading">Reading: %s</string>
+    <string name="sat_score_writing">Writing: %s</string>
+    <string name="sat_score_missing">Missing</string>
+    <string name="sat_score_loading">Loading</string>
+</resources>
